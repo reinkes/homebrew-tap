@@ -1,8 +1,8 @@
 class FancyLoginGo < Formula
     desc "Fancy AWS/Kubernetes login tool with interactive prompts and k9s integration"
     homepage "https://github.com/reinkes/go-fancy-login"
-    url "https://github.com/reinkes/go-fancy-login/archive/v1.0.3.tar.gz"
-    sha256 "3e76ab9c592d730a78b4e439fc7cb3646e28fbbbec7f97150c95414f334b28cd"
+    url "https://github.com/reinkes/go-fancy-login/archive/v1.0.4.tar.gz"
+    sha256 "a8252a733004565a34f2d38e8807f4a9d831155a0860cc278548e1e87c254faf"
     license "MIT"
     head "https://github.com/reinkes/go-fancy-login.git", branch: "main"
 
