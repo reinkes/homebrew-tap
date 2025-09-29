@@ -1,16 +1,16 @@
 {
-    "version": "1.0.6",
+    "version": "1.0.7",
     "description": "A streamlined AWS SSO login and Kubernetes context selection utility with minimal, colorful CLI experience",
     "homepage": "https://github.com/reinkes/go-fancy-login",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/reinkes/go-fancy-login/releases/download/v1.0.6/fancy-login-go-v1.0.5-windows-amd64.exe.zip",
+            "url": "https://github.com/reinkes/go-fancy-login/releases/download/v1.0.7/fancy-login-go-v1.0.5-windows-amd64.exe.zip",
             "hash": "",
             "bin": "fancy-login-go.exe"
         },
         "arm64": {
-            "url": "https://github.com/reinkes/go-fancy-login/releases/download/v1.0.6/fancy-login-go-v1.0.5-windows-arm64.exe.zip",
+            "url": "https://github.com/reinkes/go-fancy-login/releases/download/v1.0.7/fancy-login-go-v1.0.5-windows-arm64.exe.zip",
             "hash": "",
             "bin": "fancy-login-go.exe"
         }
@@ -21,10 +21,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/reinkes/go-fancy-login/releases/download/v1.0.6/fancy-login-go-v$version-windows-amd64.exe.zip"
+                "url": "https://github.com/reinkes/go-fancy-login/releases/download/v1.0.7/fancy-login-go-v$version-windows-amd64.exe.zip"
             },
             "arm64": {
-                "url": "https://github.com/reinkes/go-fancy-login/releases/download/v1.0.6/fancy-login-go-v$version-windows-arm64.exe.zip"
+                "url": "https://github.com/reinkes/go-fancy-login/releases/download/v1.0.7/fancy-login-go-v$version-windows-arm64.exe.zip"
             }
         }
     },
