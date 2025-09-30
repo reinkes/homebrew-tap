@@ -6,12 +6,12 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/reinkes/go-fancy-login/releases/download/v1.0.8/fancy-login-go-v1.0.8-windows-amd64.exe.zip",
-            "hash": "8eda9be352dff45bbad26a53c3cae92adbde08274893845c23e6d47c5cc93301",
+            "hash": "49747aad7945d8f4610f151352ab63f9d98c2a46a87c921661af767f054ba52f",
             "bin": "fancy-login-go.exe"
         },
         "arm64": {
             "url": "https://github.com/reinkes/go-fancy-login/releases/download/v1.0.8/fancy-login-go-v1.0.8-windows-arm64.exe.zip",
-            "hash": "069422b3680ceec266fd16e8940b7836ba6a78176df031eaaa8c73b2637a728b",
+            "hash": "8eda9be352dff45bbad26a53c3cae92adbde08274893845c23e6d47c5cc93301",
             "bin": "fancy-login-go.exe"
         }
     },
